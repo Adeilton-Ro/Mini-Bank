@@ -1,0 +1,26 @@
+/media/marcos/Backups/Workspace-Asp.net/Exercicios/Bank/bin/Debug/netcoreapp3.1/Bank
+/media/marcos/Backups/Workspace-Asp.net/Exercicios/Bank/bin/Debug/netcoreapp3.1/Bank.deps.json
+/media/marcos/Backups/Workspace-Asp.net/Exercicios/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.json
+/media/marcos/Backups/Workspace-Asp.net/Exercicios/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.dev.json
+/media/marcos/Backups/Workspace-Asp.net/Exercicios/Bank/bin/Debug/netcoreapp3.1/Bank.dll
+/media/marcos/Backups/Workspace-Asp.net/Exercicios/Bank/bin/Debug/netcoreapp3.1/Bank.pdb
+/media/marcos/Backups/Workspace-Asp.net/Exercicios/Bank/obj/Debug/netcoreapp3.1/Bank.csprojAssemblyReference.cache
+/media/marcos/Backups/Workspace-Asp.net/Exercicios/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfoInputs.cache
+/media/marcos/Backups/Workspace-Asp.net/Exercicios/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfo.cs
+/media/marcos/Backups/Workspace-Asp.net/Exercicios/Bank/obj/Debug/netcoreapp3.1/Bank.csproj.CoreCompileInputs.cache
+/media/marcos/Backups/Workspace-Asp.net/Exercicios/Bank/obj/Debug/netcoreapp3.1/Bank.dll
+/media/marcos/Backups/Workspace-Asp.net/Exercicios/Bank/obj/Debug/netcoreapp3.1/Bank.pdb
+/media/marcos/Backups/Workspace-Asp.net/Exercicios/Bank/obj/Debug/netcoreapp3.1/Bank.genruntimeconfig.cache
+/home/adeilton/Área de Trabalho/C#/Bank/obj/Debug/netcoreapp3.1/Bank.csprojAssemblyReference.cache
+/home/adeilton/Área de Trabalho/C#/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfoInputs.cache
+/home/adeilton/Área de Trabalho/C#/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfo.cs
+/home/adeilton/Área de Trabalho/C#/Bank/obj/Debug/netcoreapp3.1/Bank.csproj.CoreCompileInputs.cache
+/home/adeilton/Área de Trabalho/C#/Bank/obj/Debug/netcoreapp3.1/Bank.dll
+/home/adeilton/Área de Trabalho/C#/Bank/obj/Debug/netcoreapp3.1/Bank.pdb
+/home/adeilton/Área de Trabalho/C#/Bank/bin/Debug/netcoreapp3.1/Bank
+/home/adeilton/Área de Trabalho/C#/Bank/bin/Debug/netcoreapp3.1/Bank.deps.json
+/home/adeilton/Área de Trabalho/C#/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.json
+/home/adeilton/Área de Trabalho/C#/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.dev.json
+/home/adeilton/Área de Trabalho/C#/Bank/bin/Debug/netcoreapp3.1/Bank.dll
+/home/adeilton/Área de Trabalho/C#/Bank/bin/Debug/netcoreapp3.1/Bank.pdb
+/home/adeilton/Área de Trabalho/C#/Bank/obj/Debug/netcoreapp3.1/Bank.genruntimeconfig.cache
